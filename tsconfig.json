@@ -1,0 +1,13 @@
+{
+	"extends": "./.nuxt/tsconfig.json",
+	"compilerOptions": {
+		"strict": true,
+		"skipLibCheck": false,
+		"forceConsistentCasingInFileNames": true,
+		"resolveJsonModule": true,
+		"incremental": false,
+		"noUncheckedIndexedAccess": true,
+		"isolatedModules": true,
+		"noEmitOnError": true
+	}
+}
